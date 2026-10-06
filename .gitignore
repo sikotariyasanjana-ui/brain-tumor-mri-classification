@@ -1,0 +1,14 @@
+# Brain Tumor Dataset - keep locally, don't upload to GitHub
+train-20260930T101539Z-1-001/
+valid-20260930T172018Z-1-001/
+test-20260930T171957Z-1-001/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+brain_tumor_env/
